@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AdvancedCloc
+</name>
+</assembly>
+<members>
+<member name="P:Advanced_Cloc.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Advanced_Cloc.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Advanced_Cloc.My.Resources.Resources.StartCloc">
+	<summary>
+  Looks up a localized string similar to @Echo OFF
+ 
+Set "WorkingDir=%1"
+SET "Directory=%2"
+SET "OutputFile=%3"
+
+Echo Comenzando a leer. &gt; "%OutputFile%"
+Echo. &gt;&gt; "%OutputFile%"
+Echo ========================== &gt;&gt; "%OutputFile%"
+Echo. &gt;&gt; "%OutputFile%"
+
+Echo Carpeta: "%Directory%" &gt;&gt; "%OutputFile%"
+Echo. &gt;&gt; "%OutputFile%"
+"%WorkingDir%\cloc-1.60.exe" "%Directory%" &gt;&gt; "%OutputFile%"
+Echo. &gt;&gt; "%OutputFile%"
+Echo ========================== &gt;&gt; "%OutputFile%"
+Echo. &gt;&gt; "%OutputFile%"
+ 
+PUSHD "%Directory%"
+(
+	FOR /D /R %%@ in ("*") DO  [rest of string was truncated]";.
+</summary>
+</member><member name="T:Advanced_Cloc.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

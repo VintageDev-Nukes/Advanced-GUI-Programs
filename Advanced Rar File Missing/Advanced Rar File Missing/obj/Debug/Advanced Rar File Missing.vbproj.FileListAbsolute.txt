@@ -1,0 +1,11 @@
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Advanced Rar File Missing\bin\Debug\Advanced Rar File Missing.exe.config
+C:\Users\Alvaro\Documents\Advanced Rar File Missing\Advanced Rar File Missing\bin\Debug\Advanced Rar File Missing.exe.config
+C:\Users\Alvaro\Documents\Advanced Rar File Missing\Advanced Rar File Missing\bin\Debug\Advanced Rar File Missing.exe
+C:\Users\Alvaro\Documents\Advanced Rar File Missing\Advanced Rar File Missing\bin\Debug\Advanced Rar File Missing.pdb
+C:\Users\Alvaro\Documents\Advanced Rar File Missing\Advanced Rar File Missing\bin\Debug\Advanced Rar File Missing.xml
+C:\Users\Alvaro\Documents\Advanced Rar File Missing\Advanced Rar File Missing\obj\Debug\Advanced_Rar_File_Missing.frmMain.resources
+C:\Users\Alvaro\Documents\Advanced Rar File Missing\Advanced Rar File Missing\obj\Debug\Advanced_Rar_File_Missing.Resources.resources
+C:\Users\Alvaro\Documents\Advanced Rar File Missing\Advanced Rar File Missing\obj\Debug\Advanced Rar File Missing.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\Advanced Rar File Missing\Advanced Rar File Missing\obj\Debug\Advanced Rar File Missing.exe
+C:\Users\Alvaro\Documents\Advanced Rar File Missing\Advanced Rar File Missing\obj\Debug\Advanced Rar File Missing.xml
+C:\Users\Alvaro\Documents\Advanced Rar File Missing\Advanced Rar File Missing\obj\Debug\Advanced Rar File Missing.pdb

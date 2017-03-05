@@ -1,0 +1,11 @@
+C:\Users\Alvaro\AppData\Local\Temporary Projects\Advanced Cloc\bin\Debug\Advanced Cloc.exe.config
+C:\Users\Alvaro\Documents\Advanced Cloc\Advanced Cloc\bin\Debug\Advanced Cloc.exe.config
+C:\Users\Alvaro\Documents\Advanced Cloc\Advanced Cloc\bin\Debug\Advanced Cloc.exe
+C:\Users\Alvaro\Documents\Advanced Cloc\Advanced Cloc\bin\Debug\Advanced Cloc.pdb
+C:\Users\Alvaro\Documents\Advanced Cloc\Advanced Cloc\bin\Debug\Advanced Cloc.xml
+C:\Users\Alvaro\Documents\Advanced Cloc\Advanced Cloc\obj\Debug\Advanced_Cloc.Resources.resources
+C:\Users\Alvaro\Documents\Advanced Cloc\Advanced Cloc\obj\Debug\Advanced Cloc.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\Advanced Cloc\Advanced Cloc\obj\Debug\Advanced Cloc.exe
+C:\Users\Alvaro\Documents\Advanced Cloc\Advanced Cloc\obj\Debug\Advanced Cloc.xml
+C:\Users\Alvaro\Documents\Advanced Cloc\Advanced Cloc\obj\Debug\Advanced Cloc.pdb
+C:\Users\Alvaro\Documents\Advanced Cloc\Advanced Cloc\obj\Debug\Advanced_Cloc.frmMain.resources
